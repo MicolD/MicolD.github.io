@@ -189,7 +189,7 @@ body.page-template-page-fullsingle-me h1 {
   justify-content: center;
   -webkit-animation: fadein 4s;
   animation: fadein 4s;
-  max-width: 66%;
+  max-width: 60%;
 }
 
 @media (max-width: 800px) {
